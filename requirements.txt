@@ -1,0 +1,20 @@
+Flask >=1.0
+Flask-Admin
+Flask-AppFactory[celery]
+Flask-CeleryExt
+Flask-SQLAlchemy
+Flask-Mail
+Flask-Uploads
+celery
+connexion >=2.0.1
+cryptography
+idna <2.8,>=2.5
+# psycopg2 >=2.7,<2.8 --no-binary psycopg2
+psycopg2-binary
+python-magic
+python-dateutil
+requests
+setuptools
+six
+typing
+websocket-client
